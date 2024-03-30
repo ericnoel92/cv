@@ -18,10 +18,6 @@ Aucune installation spécifique n'est requise pour exécuter ce jeu. Cependant, 
 
 Les contributions à ce projet sont les bienvenues. Si vous souhaitez contribuer, veuillez forker ce dépôt, effectuer vos modifications, puis soumettre une demande de fusion.
 
-## Licence
-
-Ce projet est sous licence MIT. Veuillez consulter le fichier `LICENSE` pour plus de détails.
-
 ## Contact
 
 Si vous avez des questions ou des suggestions concernant ce projet, n'hésitez pas à me contacter à l'adresse suivante : [eric.antonie.noel92@gmail.coml].
