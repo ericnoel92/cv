@@ -1,3 +1,6 @@
+<div>
+  <img src="silly.png">
+</div>
 # Jeu de Tir
 
 Ce projet est un petit jeu de tir réalisé en HTML, CSS et JavaScript.
